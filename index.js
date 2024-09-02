@@ -1,7 +1,7 @@
-let idade = 28;
-const anoNascimento = 1995;
+let idade = 17;
+const anoNascimento = 2007;
 let anoAtual = 2024;
-const nomeCompleto = "Lucas Stasiak";
+const nomeCompleto = "Geovana Albreicht";
 
 console.log("Meu nome é " + nomeCompleto + " nascido no ano de " + anoNascimento + " e no ano atual " + anoAtual + " completo " + idade + " anos");
 
