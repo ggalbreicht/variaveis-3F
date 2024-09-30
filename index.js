@@ -44,5 +44,6 @@ if(idadeComprador >= 18) {
   console.log ("Olá senhor(a) " + nomeComprador);
   console.log("Não foi posível concluir a compra");
   console.log("Vocẽ é menor de idade");
+  
 }
 
